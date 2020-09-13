@@ -1,0 +1,2 @@
+# server-launch
+aws cli
